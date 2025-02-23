@@ -34,7 +34,6 @@ for letter in cipher_text:
 print("encrypted message: " + cipher_text)
 print("original message: " + plain_text)
 
-dsadasda
-
+no
 
 
